@@ -12,7 +12,7 @@
 
 	<div class="container">
 
-		<h2>Dodaj nową książkę <a href="/" class="btn btn-primary right">Lista książek</a></h2>
+		<h2>Dodaj nową książkę <a href="/list" class="btn btn-primary right">Lista książek</a></h2>
 
 		<form class="form-horizontal" action="add" method="post">
 			<fieldset>
